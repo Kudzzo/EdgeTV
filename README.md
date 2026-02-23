@@ -1,6 +1,7 @@
 
 # EdgeTV v0.1 📺
-**A smooth 10FPS Video Player for the RadioMaster Pocket (EdgeTX)**
+**A smooth 10FPS Video Player for the RadioMaster Pocket (EdgeTX 2.10.5)**
+
 **This Was Made With Linux So Be Sure To Check Your Paths**
 
 Created by **Kudzz**  
