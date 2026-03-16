@@ -9,12 +9,7 @@ Created by **Kudzz**
 
 EdgeTV is an open-source video player designed specifically for monochrome EdgeTX radios like the RadioMaster Pocket. It uses a custom Run-Length Encoding (RLE) system to bypass hardware limitations and provide smooth playback with synchronized audio.
 
----
 
-> [!CAUTION]
-> **WARNING:** If this breaks your controller, I am not responsible for the damages. Use at your own risk!
-
----
 
 ## 📂 Project Structure
 - **/Sd_Card**: Contains the Lua script and a demo of "Bad Apple".
